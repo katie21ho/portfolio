@@ -1,0 +1,33 @@
+h1 {
+	font-size: 70px;
+	margin: 5px;
+	color: lightblue;
+}
+h2 {
+	font-size: 50px;
+	color: pink;
+}
+h3 {
+	text-decoration: underline;
+}
+body {
+	font-family: 'Raleway', sans-serif;
+}
+.whole {
+	padding: 20px;
+}
+.border {
+	border-radius: 50px;
+}
+.nounderline
+{
+	text-decoration: none;
+}
+.padding {
+	padding: 10px;
+	padding-left: 0px;
+	margin-bottom: 10px;
+}
+
+
+
